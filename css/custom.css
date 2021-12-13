@@ -1,0 +1,13 @@
+.header-top{
+    position: relative;
+}
+.topbar,.header-top{
+    border-bottom: 1px solid #c0c3ca;
+}
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+  }
